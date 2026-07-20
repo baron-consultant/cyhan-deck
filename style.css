@@ -453,13 +453,14 @@
   grid-row: 1;
   width: 78%;
   position: relative;
-  top: -110px;
+  top: -165px;
+  clip-path: inset(90px 0 0 0);
 }
 
 .center-translated {
   position: absolute;
   left: 0;
   top: 620px;
-  width: 3000px;
+  width: 2960px;
   z-index: 3;
 }
