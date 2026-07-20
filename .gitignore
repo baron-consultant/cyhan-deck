@@ -2,6 +2,7 @@ node_modules/
 dist/
 *.pdf
 *.png
+!assets/**/*.png
 *.pptx
 !듀얼용.pptx
 !package.json
