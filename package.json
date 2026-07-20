@@ -1,0 +1,23 @@
+{
+  "name": "dual-wide-slidev",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "dev:remote": "slidev --remote",
+    "build": "slidev build",
+    "export:pptx": "slidev export --format pptx",
+    "export:pdf": "slidev export --format pdf",
+    "export:png": "slidev export --format png"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.9.1",
+    "@slidev/theme-default": "^0.25.0",
+    "katex": "^0.17.0",
+    "vue": "^3.5.17"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.53.1"
+  }
+}

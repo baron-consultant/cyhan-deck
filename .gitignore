@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.pdf
+*.png
+*.pptx
+!듀얼용.pptx
+!package.json
