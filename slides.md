@@ -6,7 +6,7 @@ colorSchema: light
 aspectRatio: 32/9
 canvasWidth: 8000
 transition: fade
-download: true
+download: false
 exportFilename: dual-wide-slides
 export:
   format: pptx
@@ -93,6 +93,7 @@ class: two-column-page
     <ul>
       <li>엄청나게 빠르다. 현재 못 한다고 앞으로 못 할거라 단정할 수 없음 </li>
       <li>생태계가 만들어지면서 전파되는 중 </li>
+      <li>과학/기술/상업적 발달이 동시 진행 </li>
     </ul>
   </section>
   <section>
@@ -110,7 +111,7 @@ layout: default
 class: two-column-page
 ---
 
-# 책임은 지지 않는 천제가 내 부하직원이 된다면?
+# 책임은 지지 않는 천재가 내 부하직원이 된다면?
 
 <div class="slide-columns">
   <section>
