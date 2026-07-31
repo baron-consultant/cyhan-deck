@@ -154,9 +154,6 @@
   grid-template-columns: 1fr 1fr;
   column-gap: 460px;
   align-items: start;
-}
-
-.slide-columns section {
   border-top: 18px solid #0f766e;
   padding-top: 70px;
 }
