@@ -1,0 +1,11 @@
+{
+  "siteTitle": "한치영 발표 자료",
+  "repository": "cyhan-deck",
+  "decks": [
+    {
+      "slug": "ai-basics",
+      "title": "AI의 기본 이해",
+      "entry": "slides.md"
+    }
+  ]
+}

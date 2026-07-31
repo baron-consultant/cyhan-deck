@@ -6,6 +6,7 @@ colorSchema: light
 aspectRatio: 32/9
 canvasWidth: 8000
 transition: fade
+routerMode: hash
 download: true
 exportFilename: dual-wide-slides
 export:
@@ -201,20 +202,4 @@ class: two-column-page wide-example-page
       <img src="./assets/tips/40th.png" alt="질문중" />
     </div>
   </section>
-</div>
-
----
-layout: default
-class: tips-page center-showcase-page
----
-
-# 센터에서는 어떻게 사용하고 있나요?
-
-<div class="center-showcase">
-  <img class="center-dashboard" src="./assets/center/dashboard.png" alt="센터 dashboard" />
-  <div class="center-left-stack">
-    <img class="center-issue-mng" src="./assets/center/issue-mng.png" alt="센터 issue management" />
-    <img class="center-ai-translate" src="./assets/center/ai-translate.png" alt="센터 AI 번역" />
-    <img class="center-translated" src="./assets/center/translated.png" alt="센터 번역 결과" />
-  </div>
 </div>
